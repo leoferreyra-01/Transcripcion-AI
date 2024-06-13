@@ -1,5 +1,8 @@
 # Transcripcion-AI
 
+sudo apt install ffmpeg
+
+
 pip install pydub speechrecognition
 
 
